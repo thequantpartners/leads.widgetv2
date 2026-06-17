@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> **AI AGENT NOTICE**: If you are an AI agent, you MUST read `AGENTS.md` first to understand the workspace operating rules and context requirements before executing tasks.
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.

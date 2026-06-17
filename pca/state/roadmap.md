@@ -10,4 +10,4 @@
 
 ## Done
 
-- [Completed work appears here]
+- [x] Fix Firebase authentication error caused by hidden newline characters in `.env` variables by sanitizing with `.trim()`.
